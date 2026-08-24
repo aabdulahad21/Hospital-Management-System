@@ -139,6 +139,20 @@ The application exposes REST APIs for managing patients, doctors, appointments, 
 
 > Note: Endpoint paths may vary depending on the mappings implemented in the controllers.
 
+## Screenshots
+
+### Hospital Management Interface
+
+![Hospital Management Interface](screenshots/hospital-home.png)
+
+### Patient Management
+
+![Patient Management](screenshots/patients.png)
+
+### REST API Response
+
+![Patient API Response](screenshots/patients-api.png)
+
 ## Getting Started
 
 ### Prerequisites
